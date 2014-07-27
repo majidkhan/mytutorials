@@ -1,0 +1,2 @@
+<h1>My experience in different frameworks/technologies</h1>
+<p>I am trying to learn everything related to web/software technology. I decided to write about my experience in these technologies so I can see how much I have learned untill now. These tutorial will also help to see how I have achieved a task before so I don't have to re-invent the wheel everytime I start a project.</p>
